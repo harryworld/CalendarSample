@@ -3,7 +3,7 @@ platform :osx, '10.11'
 use_frameworks!
 
 target 'CalendarSample' do
-
+    pod 'HNCalendarView', :path => 'InternalPods/HNCalendarView'
 end
 
 target 'CalendarSampleTests' do

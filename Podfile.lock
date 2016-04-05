@@ -1,1 +1,14 @@
+PODS:
+  - HNCalendarView (0.0.0)
+
+DEPENDENCIES:
+  - HNCalendarView (from `InternalPods/HNCalendarView`)
+
+EXTERNAL SOURCES:
+  HNCalendarView:
+    :path: InternalPods/HNCalendarView
+
+SPEC CHECKSUMS:
+  HNCalendarView: afbacc880e579c19cb884a5ad53475f5853f1e18
+
 COCOAPODS: 0.39.0
